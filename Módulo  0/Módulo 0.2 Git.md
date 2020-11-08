@@ -1,0 +1,1 @@
+# Tarea 0.2: Instalar y configurar Git
