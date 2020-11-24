@@ -1,4 +1,4 @@
-#Ejercicios de tiempo independiente
+# Ejercicios de tiempo independiente
 
 1. Crear un algoritmo en dónde se declare/cree dos constantes con un valor numérico, sumar los dos números y guardar el resultado de la suma en una variable y escribir/imprimir la variable con el resultado.
 
